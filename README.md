@@ -13,7 +13,7 @@ npm i heroicons-next
 After installing the package, import `the icon component`
 
 ```js
-import { OutlineAcademicCap } from "next-heroicons";
+import { OutlineAcademicCap } from "heroicons-next";
 
 export default function MyApp({ Component, pageProps }) {
   return (
@@ -29,7 +29,7 @@ export default function MyApp({ Component, pageProps }) {
 You can also render an icon from a `HeroMap`
 
 ```js
-import { HeroMap } from "next-heroicons";
+import { HeroMap } from "heroicons-next";
 
 export default function MyApp({ Component, pageProps }) {
   return (

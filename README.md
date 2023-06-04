@@ -5,7 +5,7 @@ Heroicons for Next.js using [Heroicons](https://github.com/tailwindlabs/heroicon
 ## How to install?
 
 ```bash
-npm i next-heroicons
+npm i heroicons-next
 ```
 
 ## How to use?

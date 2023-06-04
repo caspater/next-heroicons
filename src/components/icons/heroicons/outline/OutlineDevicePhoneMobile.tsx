@@ -1,5 +1,5 @@
 
-                import { IconProps } from '@/utils/types'
+                import { IconProps } from '../../../../utils/types'
     
                 export function OutlineDevicePhoneMobile(props: IconProps) {
                     return (

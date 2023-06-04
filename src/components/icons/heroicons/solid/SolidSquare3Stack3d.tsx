@@ -1,5 +1,5 @@
 
-                import { IconProps } from '@/utils/types'
+                import { IconProps } from '../../../../utils/types'
     
                 export function SolidSquare3Stack3d(props: IconProps) {
                     return (

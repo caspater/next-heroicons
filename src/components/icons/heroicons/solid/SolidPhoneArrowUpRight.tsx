@@ -1,5 +1,5 @@
 
-                import { IconProps } from '@/utils/types'
+                import { IconProps } from '../../../../utils/types'
     
                 export function SolidPhoneArrowUpRight(props: IconProps) {
                     return (
